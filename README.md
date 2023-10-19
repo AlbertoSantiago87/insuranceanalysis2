@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# insuranceanalysis2
+# Pruebas con datos de carros
 
 <!-- badges: start -->
 <!-- badges: end -->
